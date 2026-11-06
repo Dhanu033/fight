@@ -1,0 +1,6 @@
+{
+  "name": "HeartSync: Couple's Daily Life & Chibi Arena",
+  "description": "A real-time multi-device couples game. Complete morning wakeup routines, explore home and garden, and playfully spar together from anywhere in the world.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
