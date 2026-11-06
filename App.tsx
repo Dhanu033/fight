@@ -35,19 +35,19 @@ import {
 } from './types';
 import { sounds } from"./sound";
 import { ChibiAvatar } from "./ChibiAvatar";
-import { BedroomArea } from './components/BedroomArea';
-import { KitchenArea } from './components/KitchenArea';
-import { LivingArea } from './components/LivingArea';
-import { GardenArea } from './components/GardenArea';
-import { ArenaArea } from './components/ArenaArea';
-import { ControlsPad } from './components/ControlsPad';
-import { CoupleActionsBar } from './components/CoupleActionsBar';
-import { DailyTasksModal } from './components/DailyTasksModal';
-import { LoveNotesModal } from './components/LoveNotesModal';
-import { LoginSyncModal } from './components/LoginSyncModal';
-import { IntegrationGuideModal } from './components/IntegrationGuideModal';
-import { OutfitModal } from './components/OutfitModal';
-import { ChatDrawer } from './components/ChatDrawer';
+import { BedroomArea } from './BedroomArea';
+import { KitchenArea } from './KitchenArea';
+import { LivingArea } from './LivingArea';
+import { GardenArea } from './GardenArea';
+import { ArenaArea } from './ArenaArea';
+import { ControlsPad } from './ControlsPad';
+import { CoupleActionsBar } from './CoupleActionsBar';
+import { DailyTasksModal } from './DailyTasksModal';
+import { LoveNotesModal } from './LoveNotesModal';
+import { LoginSyncModal } from './LoginSyncModal';
+import { IntegrationGuideModal } from './IntegrationGuideModal';
+import { OutfitModal } from './OutfitModal';
+import { ChatDrawer } from './ChatDrawer';
 
 export default function App() {
   // Load initial credentials from URL or localStorage
