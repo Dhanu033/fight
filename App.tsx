@@ -34,7 +34,7 @@ import {
   UserCredentials,
 } from './types';
 import { sounds } from"./sound";
-import { ChibiAvatar } from './components/ChibiAvatar';
+import { ChibiAvatar } from "./ChibiAvatar";
 import { BedroomArea } from './components/BedroomArea';
 import { KitchenArea } from './components/KitchenArea';
 import { LivingArea } from './components/LivingArea';
